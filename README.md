@@ -13,7 +13,7 @@
 ### I am a Front-End Developer at Cloudstok Technologies
 - 🔭 Atualmente, estou trabalhando no meu site de portfólio :grin:
 - 🌱 Atualmente estou aprendendo Desenvolvimento Backend e FrontEnd.
-- 👯 I’m looking to collaborate with other Developers :wink:
+- 👯 Procuro colaborar com outros Desenvolvedores :wink:
 - 🥅 Objetivos 2023: Contribuir para projetos.
 - 💬 Pergunte-me sobre qualquer coisa, estou feliz em ajudar :smile:
 - 📬 Como me encontrar? [Vamos entrar em contato!]
