@@ -10,7 +10,7 @@
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-### I am a Front-End Developer at Cloudstok Technologies
+### Vamos lá?
 - 🔭 Atualmente, estou trabalhando no meu site de portfólio :grin:
 - 🌱 Atualmente estou aprendendo Desenvolvimento Backend e FrontEnd.
 - 👯 Procuro colaborar com outros Desenvolvedores :wink:
