@@ -3,7 +3,7 @@
 
 ## 🧐 Quem sou eu?
 
-<h3 align="center">Um apaixonado em tecnologia e desenvolvimento Front End. Adoro construir Aplicações Mobiles e Web com a mais recente tecnologia disponível
+<h3 align="center">Um apaixonado em tecnologia e desenvolvimento Front End e Backe End. Adoro construir Aplicações Mobiles e Web Full-Stack com a mais recente tecnologia disponível
 </h3>
 
 <br>
