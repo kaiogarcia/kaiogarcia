@@ -11,10 +11,8 @@
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### Vamos lá?
-- 🔭 Atualmente, estou trabalhando no meu site de portfólio :grin:
-- 🌱 Atualmente estou aprendendo Desenvolvimento Backend e FrontEnd.
 - 👯 Procuro colaborar com outros Desenvolvedores :wink:
-- 🥅 Objetivos 2023: Contribuir para projetos.
+- 🥅 Objetivos 2024: Contribuir para projetos.
 - 💬 Pergunte-me sobre qualquer coisa, estou feliz em ajudar :smile:
 - 📬 Como me encontrar? [Vamos entrar em contato!]
 - 🧗 Eu tento: Ir além e ultrapassar os limites
