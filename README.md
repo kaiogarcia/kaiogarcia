@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&pause=1000&color=FFFFFF&background=90000000&width=900&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Kaio+Vinicius+de+Oliveira+Garcia;Sou+apaixonado+por+tecnologia+e+sou+desenvolvedor+front-end;Tamb%C3%A9m+gosto+de+atuar+com+projetos+mobile)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&pause=1000&color=FFFFFF&background=90000000&width=900&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Kaio+Vinicius+de+Oliveira+Garcia;Sou+apaixonado+por+tecnologia+e+sou+desenvolvedor+FullStack;Tamb%C3%A9m+gosto+de+atuar+com+projetos+mobile)
 <!-- <h1 align="center">Hi 👋, I'm Aakash</h1> -->
 
 ## 🧐 Quem sou eu?
