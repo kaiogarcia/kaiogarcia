@@ -26,6 +26,7 @@
   <p>
     <a href="https://www.linkedin.com/in/kaio-vinicius-de-oliveira-garcia-85b4b3118" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
    <a href="https://www.instagram.com/kaiogarcia_" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
+   <a href="https://github.com/kaio-vinicius" target="_blank"><img src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 </br>
 
